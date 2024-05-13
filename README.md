@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Zeszen
-- 👀 I’m interested in Web Styling
-- 🌱 I’m currently learning HTML, CSS, JS, SCSS, C#, ReactJS, SwiftUI, Java
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in web and game development
+- 🌱 I’m currently learning Next.js
 - 📫 How to reach me I'm everywhere under @Zeszen [ig, gamejolt, yt]
 
 <!---
